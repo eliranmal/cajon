@@ -3,7 +3,7 @@
 
 CAD designs for a DYI cajon (box drum).
 
-heavily based on [a scale drawing][1] <sup>📥</sup> by Joe Cruz, with some modifications made to fit my current wood stock 🪵
+heavily based on [a scale drawing <sup>📥</sup>][1] by Joe Cruz, with some modifications made to fit my current wood stock 🪵
 
 
 
