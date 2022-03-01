@@ -12,7 +12,7 @@
 
 CAD designs for a DYI cajon ("box drum").
 
-based on a scale drawing [<sup>\[PDF download 📥\]</sup>][1] by Joe Cruz, with some modifications made:
+based on a scale drawing by Joe Cruz [<sup>\[PDF download 📥\]</sup>][1], with some modifications made:
 
 - 🎛️ add a knob, for tightening/loosening the snare
 - 🥁 use two 40-strand snare wires (instead of one 20-strand), for extra crisp!
