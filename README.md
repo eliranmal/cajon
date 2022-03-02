@@ -18,7 +18,7 @@ based on a scale drawing by Joe Cruz [<sup>\[PDF download 📥\]</sup>][1], with
 - 🥁 use two 40-strand snare wires (instead of one 20-strand), for extra crisp!
 - 🕳️ make an interesting, asymmetric sound hole (instead of a boring round one)
 - 🪑 customize the height to fit my personal ergonomics
-- 🪵 adjust dimensions to meet the constraints of my current wood stock
+- 🪵 adjust dimensions to meet the constraints of my available wood stock
 
 
 
