@@ -3,8 +3,8 @@
        alt="instrument: cajon" />
   <img src="https://img.shields.io/badge/version-cero.uno-dodgerblue"
        alt="version: cero.uno" />
-  <img src="https://img.shields.io/badge/DIY%20youtube%20tutorials%20watched-none-f00"
-       alt="DIY youtube tutorials watched: none" />
+  <img src="https://img.shields.io/badge/youtube%20DIY%20tutorials%20watched-none-f00"
+       alt="youtube DIY tutorials watched: none" />
 </p>
 
 
