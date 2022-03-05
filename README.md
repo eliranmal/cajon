@@ -24,8 +24,16 @@ based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some mod
                    
 ### current status
 
-![current status](export/cajon.png)
-<sup>captured with [CaptureSave][2]</sup>
+snapshot images of the current progress, captured using [CaptureSave][2].
+                      
+###### isometric view (front)
+
+![current status - isometric view (front)](export/cajon-isometric-front.png)
+                      
+###### isometric view (back)
+
+![current status - isometric view (back)](export/cajon-isometric-back.png)
+
 
 
 [1]: https://tnmarketing.s3.amazonaws.com/content/wwgoa/How-to-Build-a-Cajon-Drum-WWGOA.PDF
