@@ -13,7 +13,7 @@
 
 ## overview
 
-this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
+this is a simplified design, based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
 
 - 🎛️ add a knob for tightening/loosening the snare
 - 🥁 use two 40-strand snare wires (instead of the standard single 20-strand), for extra crisp!
@@ -25,7 +25,10 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 ## design constraints
 
 - 🧰 must be buildable without the aid of power tools (a power drill is ok..)
-- 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters
+- 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters.  
+  as a result:
+  - the box top, bottom and sides would have to be laminated from two layers.  
+    this can be a merit as it frees the builder from making any rabate joints
 
                    
 ## current progress
