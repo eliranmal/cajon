@@ -26,8 +26,8 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 
 ## design constraints
 
+- 🧰 must be buildable without the aid of power tools (a power drill is ok..)
 - 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters
-- 🧰 it must be buildable without the aid of power tools (a power drill is ok..)
 
                    
 ## current status
