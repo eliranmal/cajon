@@ -8,9 +8,9 @@
 </p>
 
 
-# cajon
+# cajon &nbsp; <sub><sub><sub><sup><sup><sup>_CAD designs for a DYI box drum_</sup></sup></sup></sub></sub></sub>
 
-<sup>_CAD designs for a DYI cajon ("box drum")_</sup>
+
 
 
 ## overview
