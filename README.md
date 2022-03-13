@@ -26,13 +26,13 @@ based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some mod
 
 snapshot images of the current progress, captured using [CaptureSave][2].
                       
-###### isometric view (front)
+###### isometric view
 
-![current status - isometric view (front)](export/cajon-isometric-front.png)
+![current status - isometric view](export/cajon-isometric.png)
                       
-###### isometric view (back)
+###### isometric view (flipped)
 
-![current status - isometric view (back)](export/cajon-isometric-back.png)
+![current status - isometric view (flipped)](export/cajon-isometric-flipped.png)
 
 
 
