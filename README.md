@@ -10,7 +10,7 @@
 
 # cajon
 
-CAD designs for a DYI cajon ("box drum").
+<sup>_CAD designs for a DYI cajon ("box drum")_</sup>
 
 based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
 
