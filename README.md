@@ -12,7 +12,10 @@
 
 <sup>_CAD designs for a DYI cajon ("box drum")_</sup>
 
-based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
+
+### overview
+
+this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
 
 - 🎛️ add a knob for tightening/loosening the snare
 - 🥁 use two 40-strand snare wires (instead of the standard single 20-strand), for extra crisp!
@@ -21,7 +24,13 @@ based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some mod
 - 🪵 adjust dimensions to meet the constraints of my available wood stock
 
 
-<br/><p align="center">&hellip;</p><br/>
+### design constraints
+
+- 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters
+- 🧰 it must be buildable without the aid of power tools (a power drill is ok..)
+
+
+<p align="center">&hellip;</p>
                    
 
 ### current status
