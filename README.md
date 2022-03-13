@@ -20,11 +20,13 @@ based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some mod
 - 🪑 customize the height to fit my personal ergonomics
 - 🪵 adjust dimensions to meet the constraints of my available wood stock
 
+
 <br/><p align="center">&hellip;</p><br/>
                    
+
 ### current status
 
-snapshot images of the current progress, captured using [CaptureSave][2].
+snapshot images of the current progress, created using [CaptureSave][2].
                       
 ###### isometric view
 
@@ -37,4 +39,4 @@ snapshot images of the current progress, captured using [CaptureSave][2].
 
 
 [1]: https://tnmarketing.s3.amazonaws.com/content/wwgoa/How-to-Build-a-Cajon-Drum-WWGOA.PDF
-[2]: https://github.com/eliranmal/freecad-macros/blob/main/CaptureSave.py
+[2]: https://github.com/eliranmal/freecad-macros/blob/main/macros/CaptureSave.py
