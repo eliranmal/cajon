@@ -30,19 +30,19 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 - 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters
 
                    
-## current status
+## current progress
 
-snapshot images of the current progress, auto-magically created with [CaptureSave][2].
-                      
-###### isometric view
+snapshot images of the current status, auto-magically created with [CaptureSave][2].
 
-![current status - isometric view](export/cajon-isometric.png)
-                      
-###### isometric view (flipped)
+| isometric | isometric (flipped) |
+| --- | --- |
+| ![current progress - isometric view][11] | ![current progress - isometric view (flipped)][12] |
 
-![current status - isometric view (flipped)](export/cajon-isometric-flipped.png)
 
 
 
 [1]: https://tnmarketing.s3.amazonaws.com/content/wwgoa/How-to-Build-a-Cajon-Drum-WWGOA.PDF
 [2]: https://github.com/eliranmal/freecad-macros/blob/main/macros/CaptureSave.py
+
+[11]: export/cajon-isometric.png
+[12]: export/cajon-isometric-flipped.png
