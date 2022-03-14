@@ -28,7 +28,7 @@ this is a simplified design, based on a scale drawing by Joe Cruz [<sup>\[PDF ğŸ
 - ğŸ“ any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters.  
   as a result:
   - the box top, bottom and sides would have to be laminated from two layers.  
-    this can be a merit as it frees the builder from making any rabate joints
+    this results in a build which is free from any rabate joints
 
                    
 ## current progress
