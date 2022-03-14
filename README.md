@@ -27,6 +27,7 @@ this is a simplified design, based on a scale drawing by Joe Cruz [<sup>\[PDF �
 - 🧰 must be buildable without the aid of power tools (a power drill is ok..)
 - 📏 any continuous solids must not exceed the available plywood board dimensions (_300 x 600 x 6 mm_), as a result:
   - the box top, bottom and sides would have to be laminated from two layers (the upside: no rabate joints to make)
+  - as the box width cannot exceed the board width, its depth will have to be adapted to keep the rectangular proportions of the top-view (it's tempting to make the front/back and the sides the same width, but perfect squares may be less desireable as they will produce more standing waves) 
 
                    
 ## current progress
