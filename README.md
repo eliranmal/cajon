@@ -25,8 +25,8 @@ this is a simplified design, based on a scale drawing by Joe Cruz [<sup>\[PDF �
 ## design constraints
 
 - 🧰 must be buildable without the aid of power tools (a power drill is ok..)
-- 📏 any continuous solids must not exceed the available plywood board dimensions: 300x600x6 millimeters. as a result:
-  - the box top, bottom and sides would have to be laminated from two layers (the plus side: no rabate joints to make)
+- 📏 any continuous solids must not exceed the available plywood board dimensions: _300 x 600 x 6 mm_. as a result:
+  - the box top, bottom and sides would have to be laminated from two layers (the upside: no rabate joints to make)
 
                    
 ## current progress
