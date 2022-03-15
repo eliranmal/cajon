@@ -8,7 +8,7 @@
 </p>
 
 
-# cajon &nbsp; <sub><sub><sup><sup>_CAD designs for a DYI box drum_</sup></sup></sub></sub>
+# cajon &nbsp; <sub><sub><sup><sup>_CAD designs for a DIY box drum_</sup></sup></sub></sub>
 
 
 ## overview
