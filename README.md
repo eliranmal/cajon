@@ -13,13 +13,14 @@
 
 ## overview
 
-this is a simplified design, based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
+this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1], with some modifications made:
 
 - 🎛️ add a knob for tightening/loosening the snare
 - 🥁 use two 40-strand snare wires (instead of the standard single 20-strand), for extra crisp!
 - 🕳️ make an interesting, asymmetric sound hole (instead of a boring round one)
 - 🪑 customize the height to fit my personal ergonomics
 - 🪵 adjust dimensions to meet the constraints of my available wood stock
+- 📪 round (fillet) the top side edges, for a slick look and more comfortable sit
 
 
 ## design constraints
