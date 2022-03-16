@@ -33,7 +33,7 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
                    
 ## current progress
 
-snapshot images of the current status, auto-magically created with [CaptureSave][2].
+snapshot images of the current status, auto-magically created with [CaptureSave][2] 🪄
 
 | isometric | isometric (flipped) |
 | --- | --- |
