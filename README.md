@@ -34,9 +34,11 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 
 snapshot images of the current status, auto-magically created with [CaptureSave][2] 🪄
 
-| isometric | isometric (flipped) |
-| --- | --- |
+| isometric                                | isometric (flipped)                                |
+|------------------------------------------|----------------------------------------------------|
 | ![current progress - isometric view][11] | ![current progress - isometric view (flipped)][12] |
+| ![current progress - front view][13]     | ![current progress - back view][14]                |
+| ![current progress - top view][15]       | ![current progress - right view][16]               |
 
 
 
@@ -46,3 +48,7 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 
 [11]: export/cajon-isometric.png
 [12]: export/cajon-isometric-flipped.png
+[13]: export/cajon-front.png
+[14]: export/cajon-back.png
+[15]: export/cajon-top.png
+[16]: export/cajon-right.png
