@@ -19,7 +19,6 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 - 🎛️ add a knob for tightening/loosening the snare
 - 🥁 use two 40-strand snare wires, for extra crisp!
 - 🪑 customize the height to fit my personal ergonomics
-- 📪 round the top side edges, for a slick look and more comfortable sit
 - 🪵 adjust dimensions to meet the constraints of my available wood stock
 
 
