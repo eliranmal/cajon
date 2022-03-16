@@ -37,8 +37,14 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 | isometric                                | isometric (flipped)                                |
 |------------------------------------------|----------------------------------------------------|
 | ![current progress - isometric view][11] | ![current progress - isometric view (flipped)][12] |
-| ![current progress - front view][13]     | ![current progress - back view][14]                |
-| ![current progress - top view][15]       | ![current progress - right view][16]               |
+
+| front                                | back                                |
+|--------------------------------------|-------------------------------------|
+| ![current progress - front view][13] | ![current progress - back view][14] |
+
+| top                                | right                                |
+|------------------------------------|--------------------------------------|
+| ![current progress - top view][15] | ![current progress - right view][16] |
 
 
 
