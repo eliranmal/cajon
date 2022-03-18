@@ -38,13 +38,17 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 |------------------------------------------|----------------------------------------------------|
 | ![current progress - isometric view][11] | ![current progress - isometric view (flipped)][12] |
 
-| front                                | back                                |
+| front                                | rear                                |
 |--------------------------------------|-------------------------------------|
-| ![current progress - front view][13] | ![current progress - back view][14] |
+| ![current progress - front view][13] | ![current progress - rear view][14] |
 
-| top                                | right                                |
-|------------------------------------|--------------------------------------|
-| ![current progress - top view][15] | ![current progress - right view][16] |
+| left                                | right                                |
+|-------------------------------------|--------------------------------------|
+| ![current progress - left view][15] | ![current progress - right view][16] |
+
+| top                                | bottom                                |
+|------------------------------------|---------------------------------------|
+| ![current progress - top view][17] | ![current progress - bottom view][18] |
 
 
 
@@ -55,6 +59,8 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 [11]: export/cajon-isometric.png
 [12]: export/cajon-isometric-flipped.png
 [13]: export/cajon-front.png
-[14]: export/cajon-back.png
-[15]: export/cajon-top.png
+[14]: export/cajon-rear.png
+[15]: export/cajon-left.png
 [16]: export/cajon-right.png
+[17]: export/cajon-top.png
+[18]: export/cajon-bottom.png
