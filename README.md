@@ -50,6 +50,10 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 |------------------------------------|---------------------------------------|
 | ![current progress - top view][17] | ![current progress - bottom view][18] |
 
+| snare mechanism                           |
+|-------------------------------------------|
+| ![current progress - snare mechanism][21] |
+
 
 
 
@@ -64,3 +68,4 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 [16]: export/cajon-right.png
 [17]: export/cajon-top.png
 [18]: export/cajon-bottom.png
+[21]: export/cajon-snare-mechanism.png
