@@ -34,21 +34,25 @@ this design is based on a scale drawing by Joe Cruz [<sup>\[PDF 📥\]</sup>][1]
 
 snapshot images of the current status, auto-magically created with [CaptureSave][2] 🪄
 
-| isometric                                | isometric (flipped)                                |
-|------------------------------------------|----------------------------------------------------|
-| ![current progress - isometric view][11] | ![current progress - isometric view (flipped)][12] |
+| isometric                           | isometric / flipped                           |
+|-------------------------------------|-----------------------------------------------|
+| ![current progress - isometric][11] | ![current progress - isometric / flipped][12] |
 
-| front                                | rear                                |
-|--------------------------------------|-------------------------------------|
-| ![current progress - front view][13] | ![current progress - rear view][14] |
+| isometric / rotated clockwise                           | isometric / rotated counterclockwise                           |
+|---------------------------------------------------------|----------------------------------------------------------------|
+| ![current progress - isometric / rotated clockwise][13] | ![current progress - isometric / rotated counterclockwise][14] |
 
-| left                                | right                                |
-|-------------------------------------|--------------------------------------|
-| ![current progress - left view][15] | ![current progress - right view][16] |
+| front                           | rear                           |
+|---------------------------------|--------------------------------|
+| ![current progress - front][15] | ![current progress - rear][16] |
 
-| top                                | bottom                                |
-|------------------------------------|---------------------------------------|
-| ![current progress - top view][17] | ![current progress - bottom view][18] |
+| left                           | right                           |
+|--------------------------------|---------------------------------|
+| ![current progress - left][17] | ![current progress - right][18] |
+
+| top                           | bottom                           |
+|-------------------------------|----------------------------------|
+| ![current progress - top][19] | ![current progress - bottom][20] |
 
 | snare mechanism                           |
 |-------------------------------------------|
@@ -62,10 +66,12 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 
 [11]: export/cajon-isometric.png
 [12]: export/cajon-isometric-flipped.png
-[13]: export/cajon-front.png
-[14]: export/cajon-rear.png
-[15]: export/cajon-left.png
-[16]: export/cajon-right.png
-[17]: export/cajon-top.png
-[18]: export/cajon-bottom.png
+[13]: export/cajon-isometric-rotated-clockwise.png
+[14]: export/cajon-isometric-rotated-counterclockwise.png
+[15]: export/cajon-front.png
+[16]: export/cajon-rear.png
+[17]: export/cajon-left.png
+[18]: export/cajon-right.png
+[19]: export/cajon-top.png
+[20]: export/cajon-bottom.png
 [21]: export/cajon-snare-mechanism.png
