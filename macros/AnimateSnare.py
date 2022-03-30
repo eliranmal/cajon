@@ -19,18 +19,19 @@ def update_spreadsheet_value(spreadsheet_label, cell_key, cell_value):
   sheet.set(cell_key, str(cell_value))
   sheet.recompute()
   App.ActiveDocument.recompute()
+  Gui.updateGui()
 
 def rotate_snare_knob(angle):
   update_spreadsheet_value('snare common', 'KnobCamAngle', angle)
 
 def sig_int():
   if FreeCAD.ActiveDocument.Comment == 'p':
-    log('AnimateSnare paused')
+    log('snare animation paused')
     return 1
 
   if FreeCAD.ActiveDocument.Comment == 's':
     timer.stop()
-    log('AnimateSnare stopped')
+    log('snare animation stopped')
     return 2
 
   return 0
@@ -47,7 +48,8 @@ def tick():
 
 def init_timer():
   timer.timeout.connect(tick)
-  timer.start(200)
+  timer.start(40)
+  log('snare animation started')
 
 def prepare_env():
   global angle, rotation_range
@@ -56,7 +58,6 @@ def prepare_env():
   FreeCAD.ActiveDocument.Comment = ''
 
 def main():
-  log('AnimateSnare started')
   prepare_env()
   init_timer()
 
