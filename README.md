@@ -54,9 +54,9 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 |-------------------------------|----------------------------------|
 | ![current progress - top][19] | ![current progress - bottom][20] |
 
-| snare mechanism                           |
-|-------------------------------------------|
-| ![current progress - snare mechanism][21] |
+| snare mechanism / front                           | snare mechanism / back                           |
+|---------------------------------------------------|--------------------------------------------------|
+| ![current progress - snare mechanism / front][21] | ![current progress - snare mechanism / back][22] |
 
 
 
@@ -74,4 +74,5 @@ snapshot images of the current status, auto-magically created with [CaptureSave]
 [18]: export/cajon-right.png
 [19]: export/cajon-top.png
 [20]: export/cajon-bottom.png
-[21]: export/cajon-snare-mechanism.png
+[21]: export/cajon-snare-mechanism-front.gif
+[22]: export/cajon-snare-mechanism-back.gif
